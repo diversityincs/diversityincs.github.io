@@ -1,2 +1,2 @@
-# DiversityInCS.github.io
+# sarahhaskew.github.io/DiversityInCS
  
