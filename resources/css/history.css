@@ -1,10 +1,8 @@
-.content {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 14px;
+.container-fluid {
   color: #1c4586;
+  font-size: 14px; 
 }
 
-.navbar {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 14px;
+.history-image {
+    max-width: 100%;
 }
