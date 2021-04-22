@@ -13,3 +13,12 @@
     max-height: 100%;
     max-width: 100%;
 }
+
+.data-header {
+  margin-left: 20px;
+}
+ 
+img {
+  width: 80%;
+  height: auto;
+}
