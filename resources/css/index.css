@@ -1,7 +1,8 @@
 .content {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   color: #1c4586;
+  margin: 0 20% 0;
 }
 
 .navbar {
