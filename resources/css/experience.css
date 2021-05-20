@@ -3,14 +3,14 @@
 }
 
 .container {
-    font-size: 14px;
+    font-size: 16px;
     display: grid;
   }
   
   .row>* {
     display: grid;
-    height: 100px;
-    border: 1px solid white;
+    min-height: 100px;
+    border: 2px solid white;
   }
   
   .col-sm-2 {
@@ -24,19 +24,27 @@
   
   .col-md-4 {
     width: 30%;
-    background-color: teal;
+    background-color:rgb(1, 56, 56);
+    color:lightblue;
   }
   
   .col-md-6 {
     width: 50%;
-    background-color: lightgreen;
+    background-color: navy;
   }
   
   .col-md-8 {
     width: 70%;
     background-color: lightblue;
+    color:rgb(1, 56, 56)
   }
   
   .col-12 {
-    background-color: green;
+    background-color: rgb(1, 56, 56);
+    color:lightblue;
+  }
+  @media screen and (max-width:770px) {
+.container {
+    max-width: 100%;
+}
   }
