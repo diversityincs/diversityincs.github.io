@@ -1,26 +1,26 @@
 .top-quote {
   font-size: 18px;
   font-weight: 350;
-  background-color: #035555;
-  color:lightblue;
+  background-color: #024444;
+  color: powderblue;
 }
 
 .categories {
-  background-color:#035555;
-  color:lightblue;
+  background-color:#024444;
+  color: powderblue;
   font-weight: 350;
   font-size: 18px;
 }
 
 .description {
-  font-size: 16px;
+  font-size:
 }
 
 .quote {
     font-size: 16px;
     font-weight: 350;
-    background-color: lightblue;
-    color:#035555;
+    background-color: powderblue;
+    color:#024444;
 }
 
 .emphasis{
@@ -37,6 +37,7 @@
     min-height: 100px;
     border: 2px solid white;
     padding: 12px;
+    border-radius: 4px;
   }
 
   @media screen and (max-width:770px) {
