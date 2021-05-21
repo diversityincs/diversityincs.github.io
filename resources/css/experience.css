@@ -50,6 +50,13 @@ button {
   background-color: midnightblue;
 }
 
+.categoryc-quote {
+  color: #2a0047;
+}
+.categoryc-description {
+  background-color: #2a0047;
+}
+
 .emphasis {
   font-weight: 600;
 }
