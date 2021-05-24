@@ -22,3 +22,7 @@ img {
   width: 80%;
   height: auto;
 }
+
+.page-content {
+  background-color: aliceblue;
+}
