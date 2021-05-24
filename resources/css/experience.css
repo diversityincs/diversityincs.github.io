@@ -7,7 +7,6 @@ button {
   text-align: left;
 }
 
-
 .top-quote {
   font-size: 18px;
   font-weight: 300;
@@ -27,17 +26,17 @@ button {
 }
 
 .link-color {
-  color:#0a0a35
+  color: #0a0a35;
 }
 .quote {
   font-size: 16px;
   font-weight: 350;
   background-color: #d4f0f3;
-  color:#024444;
+  color: #024444;
 }
 
 .categorya-quote {
-  color:#0a0a35;
+  color: #0a0a35;
 }
 .categorya-description {
   background-color: #0a0a35;
@@ -51,10 +50,10 @@ button {
 }
 
 .categoryc-quote {
-  color: #2a0047;
+  color: #3c264d;
 }
 .categoryc-description {
-  background-color: #2a0047;
+  background-color: #3c264d;
 }
 
 .emphasis {
