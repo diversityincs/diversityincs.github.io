@@ -1,11 +1,11 @@
-button {
+/* button {
   background-color: #024444;
   color: #d4f0f3;
   font-weight: 350;
   font-size: 18px;
   border: 0;
   text-align: left;
-}
+} */
 
 .top-quote {
   font-size: 18px;
@@ -17,12 +17,12 @@ button {
 .categories {
   background-color: #024444;
   color: #d4f0f3;
-  font-weight: 350;
+  font-weight: 400;
   font-size: 18px;
 }
 
 .description {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .link-color {
@@ -30,7 +30,7 @@ button {
 }
 .quote {
   font-size: 16px;
-  font-weight: 350;
+  font-weight: 400;
   background-color: #d4f0f3;
   color: #024444;
 }
