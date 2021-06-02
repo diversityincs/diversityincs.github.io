@@ -89,6 +89,18 @@
 
 @media screen and (max-width: 770px) {
   .container {
-    max-width: 100%;
+    max-width: 95%;
+  }
+
+  .col-5{
+    width: 100% !important;
+  }
+
+  .col-6 {
+    width: 100% !important;
+  }
+
+  .col-7 {
+    width: 100% !important
   }
 }
