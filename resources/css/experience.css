@@ -18,9 +18,7 @@
 }
 
 .mini-block {
-  border-top: solid 4px white; 
-  padding: 20px;
-
+  padding: 20px !important;
 }
 
 .top-description {
@@ -42,6 +40,7 @@
 .categorya-quote {
   color: #0a0a35;
 }
+
 .categorya-description {
   background-color: #0a0a35;
 }
@@ -74,7 +73,7 @@
   display: grid;
   min-height: 100px;
   border: 3px solid aliceblue;
-  padding: 12px;
+  padding: 0 !important;
   border-radius: 4px;
 }
 
