@@ -23,11 +23,20 @@
 
 }
 
+.top-description {
+  font-size: 18px;
+  font-weight: 400;
+  background-color: #d4f0f3;
+  color: #024444;
+  align-items: center;
+}
+
 .quote {
   font-size: 16px;
   font-weight: 400;
   background-color: #d4f0f3;
   color: #024444;
+  align-items: center;
 }
 
 .categorya-quote {

@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f899d69-7d10-4f44-bbc7-356045f062e6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/categorya.html" beforeDir="false" afterPath="$PROJECT_DIR$/categorya.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categoryb.html" beforeDir="false" afterPath="$PROJECT_DIR$/categoryb.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/categoryc.html" beforeDir="false" afterPath="$PROJECT_DIR$/categoryc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.html" beforeDir="false" afterPath="$PROJECT_DIR$/data.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experience.html" beforeDir="false" afterPath="$PROJECT_DIR$/experience.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history.html" beforeDir="false" afterPath="$PROJECT_DIR$/history.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/process.html" beforeDir="false" afterPath="$PROJECT_DIR$/process.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +34,7 @@
       <updated>1622602662283</updated>
       <workItem from="1622602666678" duration="32000" />
       <workItem from="1622611692060" duration="789000" />
+      <workItem from="1622655193053" duration="394000" />
     </task>
     <servers />
   </component>
