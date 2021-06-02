@@ -31,5 +31,6 @@
 @media (max-width: 450px) {
   .img-fluid {
     padding-bottom: 20px;
+    max-height: 270px;
   }
 }
