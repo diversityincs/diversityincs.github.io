@@ -6,20 +6,23 @@
   color: #d4f0f3;
 }
 
-.categories {
-  background-color: #024444;
-  color: #d4f0f3;
-  font-weight: 400;
-  font-size: 18px;
-}
-
 .description {
-  font-size: 18px;
+  color: #d4f0f3;
+  font-size: 20px;
+  align-content: center;
+  justify-content: center;
 }
 
 .link-color {
   color: #d4f0f3;
 }
+
+.mini-block {
+  border-top: solid 4px white; 
+  padding: 20px;
+
+}
+
 .quote {
   font-size: 16px;
   font-weight: 400;
@@ -39,7 +42,6 @@
 }
 .categoryb-description {
   background-color: midnightblue;
-  color: #d4f0f3;
 }
 
 .categoryc-quote {
