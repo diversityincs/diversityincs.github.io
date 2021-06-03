@@ -15,7 +15,7 @@ new Chart(document.getElementById("psu-undergrad").getContext('2d'), {
       labels: [male, female],
       datasets: [{
         label: "Percent composition",
-        backgroundColor: [lightBlue, navy],
+        backgroundColor: [lightGreen, darkGreen],
         data: [43.2, 56.8]
       }]
     },
@@ -35,7 +35,7 @@ new Chart(document.getElementById("national-undergrad").getContext('2d'), {
       labels: [male, female],
       datasets: [{
         label: "Percent composition",
-        backgroundColor: [lightGreen, darkGreen],
+        backgroundColor: [lightBlue, navy],
         data: [43, 57]
       }]
     },
@@ -55,7 +55,7 @@ new Chart(document.getElementById("psu-cs").getContext('2d'), {
       labels: [male, female],
       datasets: [{
         label: "Percent composition",
-        backgroundColor: [lightBlue, navy],
+        backgroundColor: [lightGreen, darkGreen],
         data: [84, 16]
       }]
     },
@@ -75,7 +75,7 @@ new Chart(document.getElementById("national-cs").getContext('2d'), {
       labels: [male, female],
       datasets: [{
         label: "Percent composition",
-        backgroundColor: [lightGreen, darkGreen],
+        backgroundColor: [lightBlue, navy],
         data: [81, 19]
       }]
     }
@@ -153,7 +153,7 @@ new Chart(document.getElementById("retention-rates-by-legal-sex-2").getContext('
         {
           label: [female],
           backgroundColor: ["#B6D7A8"],
-          data: [57, 53, 100]
+          data: [57, 97, 53, 100]
         }
     ]
   }
@@ -215,7 +215,7 @@ new Chart(document.getElementById("psu-cs-freshman-retention-female").getContext
     datasets: [{
       label: ["Retention Rate %"],
       backgroundColor: [darkGreen],
-      data: [55, 56, 63, 66, 68]
+      data: [59, 50, 55, 66, 57]
     }]
   },
   options: {
