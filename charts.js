@@ -11,6 +11,7 @@ let female = "Female %";
 // PSU undergraduate degrees awarded, All majors (2016-2017)
 new Chart(document.getElementById("psu-undergrad").getContext('2d'), {
     type: 'pie',
+    class: 'pie-charts',
     data: {
       labels: [male, female],
       datasets: [{
